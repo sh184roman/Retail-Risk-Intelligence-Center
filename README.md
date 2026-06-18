@@ -193,7 +193,7 @@ Inventory Risk was identified as the most significant contributor to overall bus
 
 ## Live Dashboard
 
-🔗 **[Retail Risk Intelligence Center Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMDI3NWJlMDktOGUxZC00MGMxLWJlYjUtMGRhNDM4ODZiNjlkIiwidCI6IjI0OWVhMzg4LWIzMzMtNDk5NS05YWVmLTIxZmExNGRhNmJlYiJ9)**
+**[Retail Risk Intelligence Center Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMDI3NWJlMDktOGUxZC00MGMxLWJlYjUtMGRhNDM4ODZiNjlkIiwidCI6IjI0OWVhMzg4LWIzMzMtNDk5NS05YWVmLTIxZmExNGRhNmJlYiJ9)**
 
 Explore the interactive dashboard to analyze:
 
@@ -209,7 +209,7 @@ Explore the interactive dashboard to analyze:
 
 ## Project Documentation
 
-📄 **[Retail Risk Intelligence Center Project Report](https://github.com/sh184roman/Retail-Risk-Intelligence-Center/blob/main/Retail_Risk_Intelligence_Center_Report.pdf)**
+**[Retail Risk Intelligence Center Project Report](https://github.com/sh184roman/Retail-Risk-Intelligence-Center/blob/main/Retail_Risk_Intelligence_Center_Report.pdf)**
 
 The report includes:
 
